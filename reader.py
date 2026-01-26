@@ -6,7 +6,7 @@ from utime import sleep
 reader = MFRC522(spi_id=0, sck=2, mosi=3, miso=4, cs=1, rst=0)
 
 print("Place your card near the reader...")
-buzz = machine.Pin(13, machine.Pin.OUT)
+buzz = machine.Pin(21, machine.Pin.OUT)
 past_uid=0
 
 while True:
