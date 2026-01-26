@@ -9,3 +9,6 @@ https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/4
 Step 2: In Thonny, open the .py files and save them onto the raspberry pi pico. 
 
 Step 3: Run read.py
+
+
+Credit to: https://github.com/kevinmcaleer/pico-rfid
